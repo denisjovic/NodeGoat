@@ -3,6 +3,8 @@ version: 2.1
 orbs:
   thunderscan: defensecode/thunderscan@1.0
 
+paralleslim: 4
+
 workflows:
   build:
     jobs:
